@@ -1,7 +1,7 @@
 import cgitb
 cgitb.enable()
 
-print("Content-type: text/html\n\n")
+print("Content-type:text/html\n\n")
 
 #Added HTML Structure with title and styling
 print("""
