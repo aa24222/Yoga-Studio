@@ -34,8 +34,10 @@ Ensure proper security measures for the MySQL database credentials.
 
 This project serves as a template; feel free to customize it based on specific requirements.
 
+
 Contributors:
 Ayesha Afia
+
 
 License:
 This project is licensed under the MIT License.
