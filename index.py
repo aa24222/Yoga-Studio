@@ -9,7 +9,7 @@ print("""
 <html lang="en">
 <head>
       <meta charset="UTF-8">
-      <meta name="viewport" contents="width"=device-width, initial-scale=1.0">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Intructors of the Yoga Club</title>
       <style>
         body {
@@ -33,10 +33,10 @@ print("""
       th, td{
         padding: 10px;
         text-align: left;
-        border-botton: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
     }
       th{
-        background-color: #008080
+        background-color: #008080;
         color: white;
       }
     </style>
@@ -54,7 +54,7 @@ print("""
 
 #debug mode on
 import cgitb
-cgitb.enable()
+
 
 #print html headers
 print("Content-Type:text/html\n\n")
